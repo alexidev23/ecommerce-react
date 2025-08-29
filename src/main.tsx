@@ -7,7 +7,6 @@ RouterProvider,
 Navigate,
 } from "react-router-dom";
 
-
 import Layout from "./components/Layout";
 import Home from "./pages/Home";
 import Category from "./pages/Category";
